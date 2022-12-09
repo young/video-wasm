@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.0"
+  }
+}
